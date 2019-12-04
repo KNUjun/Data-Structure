@@ -35,8 +35,8 @@ postfix formula 인 식을 `stack`을 이용하여 계산한다.
 ### 7. CalcInfixByPostfix.c
 사용자로부터 `infix` 식을 입력바다 `postfix`로 변경하여 `postfix`를 계산한다.
 ### 8. metalRod.c
-`stack`을 이용해 다음 문제를 풀어본다.
-[백준-쇠막대기](https://www.acmicpc.net/problem/10799)
+`stack`을 이용해 다음 문제를 풀어본다.  
+[[백준-쇠막대기](https://www.acmicpc.net/problem/10799)]
 
 ## Assignment3
 ### 1. queues.h
